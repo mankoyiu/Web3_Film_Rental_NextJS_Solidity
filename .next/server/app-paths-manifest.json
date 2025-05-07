@@ -1,0 +1,12 @@
+{
+  "/api/films/route": "app/api/films/route.js",
+  "/api/films/update/[id]/route": "app/api/films/update/[id]/route.js",
+  "/api/rentals/all/route": "app/api/rentals/all/route.js",
+  "/login/page": "app/login/page.js",
+  "/films/page": "app/films/page.js",
+  "/staff/dashboard/page": "app/staff/dashboard/page.js",
+  "/films/[id]/page": "app/films/[id]/page.js",
+  "/page": "app/page.js",
+  "/rentals/page": "app/rentals/page.js",
+  "/staff/films/[id]/edit/page": "app/staff/films/[id]/edit/page.js"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "60bdaec612f275fc7451c57e-1746628090988",
+    "filmId": "60bdaec612f275fc7451c57e",
+    "title": "Star Trek: First Contact",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTllZjRkY2QtYTJlMy00ZTMxLWE0YWQtMWMwYzY2YTM3YzRjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "rentedAt": "2025-05-07T14:28:10.988Z",
+    "expiresAt": "2025-05-14T14:28:10.988Z",
+    "status": "active",
+    "price": "0.02"
+  },
+  {
+    "id": "60bd923db1b0d030af499dfc-1746628229032",
+    "filmId": "60bd923db1b0d030af499dfc",
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
+    "rentedAt": "2025-05-07T14:30:29.032Z",
+    "expiresAt": "2025-05-14T14:30:29.032Z",
+    "status": "active",
+    "price": "0.02"
+  }
+]

@@ -1,0 +1,53 @@
+/* Global Styles for Film Rental DApp */
+
+body {
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: #fafbfc;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+.ant-layout {
+  background: #fafbfc;
+}
+
+.ant-card, .ant-table, .ant-layout-footer {
+  border-radius: 14px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+}
+
+.ant-btn-primary {
+  background: linear-gradient(90deg, #6a82fb 0%, #fc5c7d 100%);
+  border: none;
+}
+
+.ant-btn-primary:hover, .ant-btn-primary:focus {
+  background: linear-gradient(90deg, #fc5c7d 0%, #6a82fb 100%);
+}
+
+/* Artistic footer gradient */
+.artistic-footer {
+  background: linear-gradient(135deg, #6a82fb 0%, #fc5c7d 100%);
+  color: #fff;
+  border-top: none;
+  box-shadow: 0 -2px 16px rgba(108, 99, 255, 0.08);
+}
+
+.artistic-footer .ant-typography {
+  color: #fff !important;
+}
+
+.artistic-footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .ant-layout-footer, .artistic-footer {
+    padding: 24px 4px 8px 4px !important;
+  }
+  .ant-card, .ant-table {
+    border-radius: 8px;
+  }
+}

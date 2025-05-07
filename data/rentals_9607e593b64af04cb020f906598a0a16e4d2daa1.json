@@ -1,0 +1,22 @@
+[
+  {
+    "id": "628a377aa9f33000bec9ec4c-1746551113699",
+    "filmId": "628a377aa9f33000bec9ec4c",
+    "title": "Happy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1NTg1MzcwM15BMl5BanBnXkFtZTcwMjA2OTU4NQ@@._V1_SX300.jpg",
+    "rentedAt": "2025-05-06T17:05:13.699Z",
+    "expiresAt": "2025-05-13T17:05:13.699Z",
+    "status": "active",
+    "price": "0.02"
+  },
+  {
+    "id": "60bdb19612f275fc7451c57f-1746551510936",
+    "filmId": "60bdb19612f275fc7451c57f",
+    "title": "Indiana Jones and the Temple of Doom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI1NTk2ZWMtMmI0YS00Yzg0LTljMzgtZTg4YjkyY2E5Zjc0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "rentedAt": "2025-05-06T17:11:50.936Z",
+    "expiresAt": "2025-05-13T17:11:50.936Z",
+    "status": "active",
+    "price": "0.02"
+  }
+]
